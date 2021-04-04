@@ -1,10 +1,10 @@
 # tiny
 nom test
 
-# install
+## install
 $ npm install @losrottweilers/tiny
 
-# usage
+## usage
 
 const tiny = require("@bamblehorse/tiny");
 
